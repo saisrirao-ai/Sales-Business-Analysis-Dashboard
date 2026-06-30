@@ -65,3 +65,19 @@ Dataset Used: E-commerce Sales Dataset
 
 ## 👨‍💻 Author
 Sai Sri Rao
+
+
+### Home Dashboard
+![Home](Screenshot%202026-06-30%20225856.png)
+
+### Sales Analysis
+![Sales](Screenshot%202026-06-30%20230221.png)
+
+### Customer Analysis
+![Customer](Screenshot%202026-06-30%20230238.png)
+
+### Product Analysis
+![Product](Screenshot%202026-06-30%20230253.png)
+
+### Geography Dashboard
+![Geography](Screenshot%202026-06-30%20230309.png)
